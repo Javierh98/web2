@@ -1,0 +1,38 @@
+
+body {
+    background: url('../img/Derecho-Bancario.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.conteiner {
+    background: rgba(0,0,0,.7);
+    width: 100%;
+    max-width: 500px;
+    margin: 100px auto;
+    border-radius: 5px;
+    padding: 40px;
+    font-family: sans-serif;
+    color: white;
+}
+
+.txtColones {
+    padding: 5px;
+    font-family: 'Josefin Sans', sans-serif;
+    border-radius: 10px;
+    border: 1px solid black;
+    width: 400px;
+    height: 25px;
+    margin: 10px 10px 10px 10px;
+}
+
+.btnCalcular {
+   /*background: rgba(0,0,0,.10);*/
+   padding: 5px;
+   font-family: 'Josefin Sans', sans-serif;
+   border-radius: 10px;
+   border: 1px solid black;
+   background-color: white;
+   margin: 10px 10px 10px 285px;
+   
+}
